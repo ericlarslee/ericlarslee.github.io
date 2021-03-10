@@ -1,0 +1,28 @@
+body {
+    background: url('foggyForest.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font: 18px Century Gothic, sans-serif;
+    color: #59838d;  
+}
+
+img {
+  border-radius: 25px;
+}
+
+.navbar {
+  background-color: rgb(69, 110, 143) !important;
+}
+
+.navbar-brand {
+  font-size: 24px;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+nav ul li a {
+  color: #becae2 !important;
+  font-size: 22px;
+  margin: auto 10px;
+}
