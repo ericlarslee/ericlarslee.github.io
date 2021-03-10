@@ -1,5 +1,5 @@
 body {
-    background: url('foggyForest.jpg');
+    background: whitesmoke;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -12,7 +12,7 @@ img {
 }
 
 .navbar {
-  background-color: rgb(69, 110, 143) !important;
+  background-color: #456e8f !important;
 }
 
 .navbar-brand {
@@ -25,4 +25,14 @@ nav ul li a {
   color: #becae2 !important;
   font-size: 22px;
   margin: auto 10px;
+}
+
+#contact {
+  text-align: center;
+  background-color: #456e8f;
+  color: #becae2;
+}
+#contact h1 {
+  text-align: center;
+  color: white;
 }
