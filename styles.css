@@ -54,3 +54,9 @@ nav ul li a {
   text-align: center;
   color: white;
 }
+
+.stat-image{
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
